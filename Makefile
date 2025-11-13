@@ -16,3 +16,5 @@ grep '^#!/usr/bin/env bash' libexec/*/* | \
 cut -d: -f1 | xargs shellcheck
 
 New line added due to practicing Jenkins CI pipelones/jobs
+
+New line added
